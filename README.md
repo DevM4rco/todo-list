@@ -42,7 +42,7 @@ npm install
 
 O projeto utiliza `JSON Server` para simualar uma api REST.
 
-1. Crie um arquido `db.json` na raiz do projeto com o seguinte conteúdo inicial:
+1. Crie um arquivo `db.json` na raiz do projeto com o seguinte conteúdo inicial:
 
 ```json
 {
